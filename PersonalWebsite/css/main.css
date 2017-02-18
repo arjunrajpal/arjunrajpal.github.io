@@ -1,0 +1,72 @@
+body
+{
+    background-image: url("../img/1.jpg");
+}
+
+.container
+{
+    text-align: center;
+    color: white;
+}
+
+#printer
+{
+    width: 250px;
+    height: 200px;
+}
+
+.details
+{
+    font-family: "Adobe Fan Heiti Std";
+    font-size: 20px;
+}
+
+#profile_photo
+{
+    height:140px;
+    width:160px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #000000;
+}
+
+.fa
+{
+    right: 30px;
+}
+
+a:hover
+{
+    color: deeppink;
+}
+
+a
+{
+    color: white;
+}
+
+#div_bottom
+{
+    margin-top: -75px;
+    opacity:1;
+}
+
+#mylinks
+{
+    bottom: 55px;
+    left: 450px;
+    position: fixed;
+}
+
+#mylinks ul
+{
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#mylinks ul li
+{
+    display: inline-block;
+}
